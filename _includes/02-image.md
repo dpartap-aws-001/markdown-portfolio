@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Vanishing Point](http://thenewcode.com/assets/images/vanishing-point-2x.jpg)
