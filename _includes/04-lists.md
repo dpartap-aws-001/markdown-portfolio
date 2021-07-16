@@ -1,4 +1,4 @@
 Favorite THings
-💦Drink - Beer
-🥶Eat - Chicken
-📘Books - Spy Thriller
+- 💦Drink - Beer
+- 🥶Eat - Chicken
+- 📘Books - Spy Thriller
